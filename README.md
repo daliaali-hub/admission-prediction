@@ -1,5 +1,4 @@
 # Admission Prediction
-![R² Score](https://img.shields.io/badge/R²-0.82-brightgreen)
 
 A machine learning project that predicts a student's chance of graduate admission based on academic factors, using regression models and scikit-learn.
 
